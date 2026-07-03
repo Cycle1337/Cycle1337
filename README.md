@@ -41,10 +41,10 @@ From Linux kernel driver hacking to modern TypeScript dashboards — if it's a p
 <div align="center">
 
 <a href="https://github.com/Cycle1337">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cycle1337&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff69b4&text_color=58a6ff&icon_color=ff69b4&border_color=30363d&include_all_commits=true&count_private=true" alt="Cycle1337's GitHub Stats" height="180" />
+  <img src="./profile/stats.svg" alt="Cycle1337's GitHub Stats" height="180" />
 </a>
 <a href="https://github.com/Cycle1337">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cycle1337&layout=compact&theme=radical&bg_color=0d1117&title_color=ff69b4&text_color=58a6ff&border_color=30363d&langs_count=8&hide=html,css&exclude_repo=bitgesell" alt="Top Languages" height="180" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="180" />
 </a>
 
 </div>
