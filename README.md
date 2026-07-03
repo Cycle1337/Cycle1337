@@ -4,7 +4,7 @@
 
 <br/>
 
-# ⚡ Cycle1337
+# Cycle1337
 
 **`Systems Hacker / Full-Stack Builder / Reverse Engineer`**
 
@@ -24,15 +24,13 @@
 
 > *"I'll become whoever I need to be."* — Toga Himiko
 
-<br/>
+<div align="center">
 
-## About
+*Built with obsession. Driven by curiosity.*
 
-I write code that runs close to metal and build tools that run in browsers.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=80&section=footer" width="100%" />
 
-From Linux kernel driver hacking to modern TypeScript dashboards — if it's a puzzle, I want to solve it.
-
-<br/>
+</div>
 
 ---
 
@@ -73,23 +71,5 @@ From Linux kernel driver hacking to modern TypeScript dashboards — if it's a p
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<img src="./assets/toga-header.jpg" alt="Toga Himiko" width="60%" />
-
-<br/><br/>
-
-*Built with obsession. Driven by curiosity.*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=80&section=footer" width="100%" />
 
 </div>
