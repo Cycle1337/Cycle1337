@@ -24,13 +24,7 @@
 
 > *"I'll become whoever I need to be."* — Toga Himiko
 
-<div align="center">
-
-*Built with obsession. Driven by curiosity.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=80&section=footer" width="100%" />
-
-</div>
+<br/>
 
 ---
 
@@ -71,5 +65,19 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+*Built with obsession. Driven by curiosity.*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=80&section=footer" width="100%" />
 
 </div>
