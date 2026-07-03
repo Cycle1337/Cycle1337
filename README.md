@@ -36,50 +36,26 @@ From Linux kernel driver hacking to modern TypeScript dashboards — if it's a p
 
 ---
 
-## Featured Projects
+## GitHub Stats
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🔧 [Kernel Driver Hack](https://github.com/Cycle1337/Kernel_driver_hack)
-Android/Linux kernel driver for memory read & write operations. Low-level systems programming at its finest.
+<a href="https://github.com/Cycle1337">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cycle1337&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff69b4&text_color=58a6ff&icon_color=ff69b4&border_color=30363d&include_all_commits=true&count_private=true" alt="Cycle1337's GitHub Stats" height="180" />
+</a>
+<a href="https://github.com/Cycle1337">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cycle1337&layout=compact&theme=radical&bg_color=0d1117&title_color=ff69b4&text_color=58a6ff&border_color=30363d&langs_count=8&hide=html,css&exclude_repo=bitgesell" alt="Top Languages" height="180" />
+</a>
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+</div>
 
-</td>
-<td width="50%">
+<div align="center">
 
-### 🏦 [CoopFin Frontend](https://github.com/Cycle1337/coopfin-frontend)
-Next.js 14 dashboard for CoopFinance cooperative finance platform. Modern UI with TypeScript.
+<a href="https://github.com/Cycle1337">
+  <img src="https://streak-stats.demolab.com?user=Cycle1337&theme=radical&background=0D1117&border=30363D&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&dates=484F58" alt="GitHub Streak" width="60%" />
+</a>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🧠 [Memanto](https://github.com/Cycle1337/memanto)
-Memory that AI Agents love — persistent context management for intelligent systems.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-</td>
-<td width="50%">
-
-### 🐧 [Linux Android ARM64](https://github.com/Cycle1337/Linux-android-arm64)
-Custom Linux kernel builds for Android ARM64 devices.
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![ARM](https://img.shields.io/badge/ARM64-0091BD?style=flat-square&logo=arm&logoColor=white)
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -97,25 +73,6 @@ Custom Linux kernel builds for Android ARM64 devices.
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-<br/>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Cycle1337&show_icons=true&hide_border=false&bg_color=0d1117&title_color=ff69b4&text_color=58a6ff&icon_color=ff69b4&border_color=30363d&ring_color=ff69b4&count_private=true" alt="Cycle1337's GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cycle1337&layout=compact&hide_border=false&bg_color=0d1117&title_color=ff69b4&text_color=58a6ff&icon_color=ff69b4&border_color=30363d&langs_count=8" alt="Top Languages" width="49%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Cycle1337&theme=radical&hide_border=false&background=0D1117&stroke=30363D&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&dates=484F58" alt="GitHub Streak" width="60%" />
 
 </div>
 
